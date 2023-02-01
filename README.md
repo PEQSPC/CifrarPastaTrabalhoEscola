@@ -29,11 +29,11 @@ STRING cd downloads
 ENTER
 DELAY 1000
 REM Faz o download do arquivo ZIP
-STRING curl -LJO https://github.com/PEQSPC/rapysberry-pi-BADUSB-ENCRYPTFOLDER/archive/refs/heads/main.zip
+STRING curl -LJO https://github.com/PEQSPC/CifrarPastaTrabalhoEscola/archive/refs/heads/main.zip
 ENTER
 DELAY 5000
 REM Descompacta o arquivo ZIP
-STRING unzip rapysberry-pi-BADUSB-ENCRYPTFOLDER-main.zip
+STRING unzip CifrarPastaTrabalhoEscola-main.zip
 ENTER
 DELAY 1000
 REM Vai para a pasta descompactada
