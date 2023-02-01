@@ -6,6 +6,10 @@ rapysberry pi bad usb encrpyt a folder
 PROJETO DESENVOLVIDO POR TELES
 PROJETO DE ESCOLA PARA CIFRAR UMA PASTA que da bypass ao windows defender
 
+este PROJETO VAI CIFRAR UMA PASTA NO DISCO C CHAMADA DE TESTE 
+Por isso se quiseres testar este projeto tens que criar uma pasta no disco c e meter o nome de teste 
+e adicionar alguns ficheiros la dentro
+
 
 
 CONTINUACAO DO PROJETO E FAZER DOWNLOAD DO FICHEIRO NO GITHUB A USAR UMA BADUSB PARA ELA FAZER O DOWNLOAD E EXECUTAR E CIFRAR UMA PASTA NO PC
