@@ -3,7 +3,7 @@ Trabalho escola para cifrar uma pasta
 
 
 rapysberry pi bad usb encrpyt a folder
-PROJETO DESENVOLVIDO POR TELES
+PROJETO DESENVOLVIDO POR PEQSPC
 PROJETO DE ESCOLA PARA CIFRAR UMA PASTA que da bypass ao windows defender
 
 este PROJETO VAI CIFRAR UMA PASTA NO DISCO C CHAMADA DE TESTE 
